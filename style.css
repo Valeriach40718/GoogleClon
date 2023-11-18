@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+#lupa{
+  color: blue;  
+}
+.icono {
+    width: 30px;
+    height: 30px;
+}
